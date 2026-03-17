@@ -7,6 +7,6 @@ hello there, you must be want to test out my hub that i named it SXPHub right?, 
 # Da Script
 this is the script you're looking for from the beginning 
 ```bash
-please wait the script is currently being tested
+loadstring(game:HttpGet("https://pastebin.com/raw/8QK72qYK"))()
 ```
 >**Note** da script is stil on v0.1bt why did i release it so soon it because i want to know what executor this hub are not working and working
