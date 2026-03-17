@@ -9,4 +9,6 @@ this is the script you're looking for from the beginning, btw feel free to modif
 ```bash
 loadstring(game:HttpGet("https://pastebin.com/raw/8QK72qYK"))()
 ```
->**Note** da script is stil on v0.1bt why did i release it so soon it because i want to know what executor this hub are not working and working
+>**Note.txt** da script is stil on v0.1bt why did i release it so soon it because i want to know what executor this hub are not working and working
+
+>**Note_2.txt** some script will doesn't work because of the executor are not compatible with the script like for example ArceusX there are 2 script that doesn't work the 1st is minos prime the 2nd is sysiphus prime so if some script doesn't work that mean that the script are not compatible with your executor
